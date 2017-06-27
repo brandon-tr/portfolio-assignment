@@ -1,0 +1,162 @@
+*{
+  margin: 0;
+  padding:0;
+}
+  body{
+    margin: auto;
+    background: #5B464F;
+  }
+h4{
+  font-size: 120%;
+}
+
+
+.header{
+  width: 80%;
+  border: 2px solid #F7F7F7;
+  background-color: #F7F7F7;
+  margin-left: 10%;
+}
+.header span{
+  float:right;
+  font-size: 80%;
+}
+
+.facepic img{
+  float: left;
+  margin-top: 5%;
+  margin-left: 15%;
+  width:33;
+  height:220px;
+  border: 3px solid grey;
+}
+
+.about{
+  margin-top: 5%;
+  width:45%;
+  float: right;
+  margin-right: 15%;
+  background: linear-gradient(to right, white, pink);
+  font-size: 140%;
+}
+
+.about h1 {
+  background: linear-gradient(to right, silver, white,silver);
+  border: 5px solid linear-gradient(to right, silver, white,silver);
+  background-color: purple;
+}
+
+.lamode{
+  float: left;
+  margin-top: 25.2%;
+  width:20%;
+  margin-left: -20%;
+  background: linear-gradient(to right, white, pink);
+  padding-bottom: 1%;
+}
+.lamode img{
+  width: 100%;
+}
+
+.lamode h1{
+  border: 5px solid #9B99A3;
+  background: #9B99A3;
+  color: white;
+}
+
+.lamode h4 {
+  border: 5px solid linear-gradient(to right, #AEADB2, #A8A7AE);
+  background: linear-gradient(to right, #AEADB2, #A8A7AE);
+  padding: 5%;
+  color: white;
+}
+
+
+.technologies img{
+  margin-top: 2%;
+  width:11%;
+  padding-right: 3%;
+  display:inline-block;
+  height: 10%;
+  padding-bottom: 3%;
+}
+
+
+.familyc h1{
+  border: 5px solid #9B99A3;
+  background: #9B99A3;
+  color: white;
+}
+
+.familyc h4{
+  border: 5px solid linear-gradient(to right, #AEADB2, #A8A7AE);
+  background: linear-gradient(to right, #AEADB2, #A8A7AE);
+  padding: 5%;
+  color: white;
+}
+
+.familyc{
+  float: left;
+  margin-top: 4%;
+  width:20%;
+  margin-left: 3%;
+  background: linear-gradient(to right, white, pink);
+  padding-bottom: 1%;
+}
+
+ .link {
+  border: 2px solid #407D61;
+  border-radius: 15px;
+  background-color: #407D61;
+  text-decoration: none;
+  margin-left: 27%;
+  color: white;
+  padding:2%;
+}
+
+.icon{
+  width:100%;
+}
+
+.fiveel{
+  float: left;
+  margin-top: 4%;
+  width:20%;
+  margin-left: 3%;
+  background: linear-gradient(to right, white, pink);
+  padding-bottom: 1%;
+}
+
+.fiveel h1{
+  border: 5px solid #9B99A3;
+  background: #9B99A3;
+  color: white;
+}
+
+.fiveel h4{
+  border: 5px solid linear-gradient(to right, #AEADB2, #A8A7AE);
+  background: linear-gradient(to right, #AEADB2, #A8A7AE);
+  padding: 5%;
+  color: white;
+}
+
+.footer{
+  margin-top: 2%;
+  margin-left: 10%;
+  display: inline-block;
+  border: 2px solid #F7F7F7;
+  background-color: #F7F7F7;
+}
+
+.footer h3 {
+  text-align: center;
+}
+
+.footer img{
+  width: 3%;
+}
+
+.footer img, .footer a {
+  position: relative;
+  left: 35%;
+}
